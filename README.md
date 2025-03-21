@@ -24,3 +24,9 @@ src/app/resources/content
 ```
 Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 ```
+
+# To Make Changes
+
+Modify the following files:
+- `src/app/resources/content.js`
+- `src/app/resources/config.js`
